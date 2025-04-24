@@ -11,3 +11,12 @@ The data was housed through a third-party software and was imported, cleaned, an
 ## Dashboard Features
 
 ![image](https://github.com/user-attachments/assets/9b788d8b-0323-48b8-bc26-55c0a0d58a64)
+
+ - Slicers for year to select each year from 2023-2025 to evaluate yearly overall performance.
+ - Slicers for months to provide a count of matters opened for each month for more in-depth performance insight.
+ - Slicers for each conveyancer/clerk combination that currently exists for proper workload distribution transparency.
+ - Notes for general guideline on allocation percentage and reminder for filter rules.
+ - Cards for easy to understand monthly and yearly performance overview.
+ - Pie chart which is affected by slicers to view allocation percentage at a glance.
+ - 6-Week allocation Donut chart to observe matter average lifespan and to maintain proper allocation distribution for matters that exceed a month
+ - Line and Stacked Column chart for monthly overview compared to previous year performance.
